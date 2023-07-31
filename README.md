@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Pleasure to meet you! I'm TK, a student in software development, and a passionate hobbyist eager to learn more programming languages.
+
 <!--
 **NeedForProgramming/NeedForProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
